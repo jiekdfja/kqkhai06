@@ -3,10 +3,10 @@
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a> -->
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
+<!-- <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br> -->
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
@@ -50,7 +50,7 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<!-- <br>
 <div align=center>
   <a href="#" title="Trungquandev">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -62,9 +62,9 @@
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
-<br>
+<br> -->
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a>
@@ -105,11 +105,11 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
+</a> --> -->
 
-<br>
+<!-- <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+</a> -->
