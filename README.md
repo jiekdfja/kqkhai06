@@ -105,7 +105,9 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a> --> -->
+</a> -->
+
+--> No things to show :(
 
 <!-- <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
